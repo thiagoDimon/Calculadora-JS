@@ -48,7 +48,9 @@ body {
     display: flex;
     width: 224px;
     height: 40px;
+    color:black;
     background-color: white;
+    font-size: 18px;
     border-radius: 10px;
     margin-left: 3.5px;
     justify-content: right;
